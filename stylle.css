@@ -2,8 +2,9 @@ body {
     background-color: rgb(119, 165, 196);
 }
 .cabeçalho{ 
+    background-color: aqua;
 width: 75%;
+color: aliceblue;
+display: flex;
 }
-.title{ 
-    width: 50%;
-}
+
